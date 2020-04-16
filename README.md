@@ -1,4 +1,4 @@
-# Bilioteca de Cartilhas Covid-19 no Trabalho Pericial
+# Biblioteca de Cartilhas Covid-19 no Trabalho Pericial
 
 As cartilhas, suas respectivas versões e atualizações podem ser acessadas nos links a seguir:
 
